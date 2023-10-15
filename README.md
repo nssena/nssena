@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👩‍💻 Natália Sena - Back-End Software Developer | Node.js | Javascript
 
-<!--
-**nssena/nssena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Natália Sena, a technology enthusiast with a strong desire to grow in the field of back-end development. I hold a degree in Psychology and have worked as a technology recruiter.
 
-Here are some ideas to get you started:
+I am currently embarking on my technology journey through a Back-End course with a focus on Javascript and Node.js, offered by Cubos Academy. This experience has been enriching, equipping me with a solid foundation in essential technologies for modern back-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to join a talented and collaborative team where I can take on exciting challenges and continue honing my skills.
+
+## 📚 Education
+
+### Cubos Academy
+- **Duration:** 2023 - 2024
+- **Description:** Back-End Development Course with Javascript and Node.js
+
+### Unijorge
+- **Degree:** MBA in Human Resources Management and Organizational Behavior, Human Resources Management
+
+
+### Faculdade São Bento da Bahia
+- **Degree:** Bachelor's in Psychology, Psychology
+
+## 🌐 Languages
+- Portuguese: Native
+- English: Fluent
+- Spanish: Advanced
+- German: Intermediate
+- Chinese: Basic
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nat%C3%A1lia-sena-520055292/)!
