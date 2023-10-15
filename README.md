@@ -26,6 +26,11 @@ My goal is to join a talented and collaborative team where I can take on excitin
 - German: Intermediate
 - Chinese: Basic
 
+## 🎉 Fun Facts
+- 🎥 I love sci-fi movies, series, and books.
+- 🐱 I have a cat named Saruman.
+- 🌍 My dream is to live in Germany.
+
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nat%C3%A1lia-sena-520055292/)!
